@@ -1,0 +1,15 @@
+body {
+    margin:0;
+    font-family: Arial,sans-serif;
+    background: burlywood;
+    background-image: url('contact us background.jpg');
+}
+.container {
+    max-width: 450px;
+    margin: 100px auto;
+    background: thistle;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1) ;
+    border-radius: 10px;
+}
